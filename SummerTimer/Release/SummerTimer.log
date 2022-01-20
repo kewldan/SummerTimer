@@ -1,0 +1,21 @@
+﻿  SummerTimer.cpp
+E:\Projects\C++\Summer\Summer\SummerTimer\SummerTimer.cpp(58,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Projects\C++\Summer\Summer\SummerTimer\SummerTimer.cpp(60,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Projects\C++\Summer\Summer\SummerTimer\SummerTimer.cpp(63,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Projects\C++\Summer\Summer\SummerTimer\SummerTimer.cpp(72,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Projects\C++\Summer\Summer\SummerTimer\SummerTimer.cpp(110,67): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Projects\C++\Summer\Summer\SummerTimer\SummerTimer.cpp(120,46): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода
+  7 of 176 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SummerTimer.vcxproj -> E:\Projects\C++\Summer\Summer\Release\SummerTimer.exe
