@@ -1,0 +1,9 @@
+{
+  "name" : "summertimer",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "ede03bad51723eb19757ea0c87a2e106661cb594",
+  "dependencies" : [ {
+    "name" : "sfml",
+    "version>=" : "2.6.0#18"
+  } ]
+}
